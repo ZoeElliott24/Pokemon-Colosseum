@@ -1,0 +1,8 @@
+Name,Type,HP,Attack,Defense,height,weight,Moves
+Seaking,Water,8000,92,65,13,390,"['Ice Beam', 'Water Gun', 'Hyper Beam', 'Horn Attack', 'Rage']"
+Staryu,Water,3000,45,55,8,345,"['Psychic', 'Waterfall', 'Ice Beam', 'Blizzard', 'Rage']"
+Starmie,Water,600,75,85,11,800,"['Psychic', 'Ice Beam', 'Water Gun', 'Hyper Beam', 'Thunderbolt']"
+Magikarp,Water,800,10,55,9,100,['Tackle']
+Gyarados,Water,950,125,79,65,2350,"['Ice Beam', 'Thrash', 'Water Gun', 'Hyper Beam', 'Flamethrower']"
+Lapras,Water,1300,85,80,25,2200,"['Solar Beam', 'Psychic', 'Ice Beam', 'Water Gun', 'Hyper Beam']"
+Vaporeon,Water,1300,65,60,10,290,"['Ice Beam', 'Water Gun', 'Hyper Beam', 'Dig', 'Strength']"
