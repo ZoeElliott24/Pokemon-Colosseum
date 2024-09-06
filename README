@@ -1,2 +1,0 @@
-To run the program, please use main(PokemonColosseum.py). PokemonColosseum.py will call Pokemon.py and PokemonMoves.py
-based off of the def. in PokemonColosseum.py. PyCharm was used as a virtual environment.
